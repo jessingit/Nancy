@@ -24,3 +24,17 @@ C:\Users\DEV007\source\repos\NancyServer\Nancy\NancyServer\obj\Debug\NancyServer
 C:\Users\DEV007\source\repos\NancyServer\Nancy\NancyServer\obj\Debug\NancyServer.csproj.CopyComplete
 C:\Users\DEV007\source\repos\NancyServer\Nancy\NancyServer\obj\Debug\NancyServer.exe
 C:\Users\DEV007\source\repos\NancyServer\Nancy\NancyServer\obj\Debug\NancyServer.pdb
+C:\Users\callu\source\repos\Nancy\NancyServer\bin\Debug\NancyServer.exe.config
+C:\Users\callu\source\repos\Nancy\NancyServer\bin\Debug\NancyServer.exe
+C:\Users\callu\source\repos\Nancy\NancyServer\bin\Debug\NancyServer.pdb
+C:\Users\callu\source\repos\Nancy\NancyServer\bin\Debug\Nancy.dll
+C:\Users\callu\source\repos\Nancy\NancyServer\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\callu\source\repos\Nancy\NancyServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\callu\source\repos\Nancy\NancyServer\bin\Debug\Nancy.xml
+C:\Users\callu\source\repos\Nancy\NancyServer\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\callu\source\repos\Nancy\NancyServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\callu\source\repos\Nancy\NancyServer\obj\Debug\NancyServer.csprojAssemblyReference.cache
+C:\Users\callu\source\repos\Nancy\NancyServer\obj\Debug\NancyServer.csproj.CoreCompileInputs.cache
+C:\Users\callu\source\repos\Nancy\NancyServer\obj\Debug\NancyServer.csproj.CopyComplete
+C:\Users\callu\source\repos\Nancy\NancyServer\obj\Debug\NancyServer.exe
+C:\Users\callu\source\repos\Nancy\NancyServer\obj\Debug\NancyServer.pdb

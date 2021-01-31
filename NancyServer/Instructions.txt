@@ -1,0 +1,4 @@
+﻿Open CMD
+
+Run jenkins in docker:
+		docker network create jenkins
