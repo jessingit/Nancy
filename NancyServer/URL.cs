@@ -24,8 +24,8 @@ namespace NancyServer
             _nancy.Start();
             Console.WriteLine($"Started listening port {_port}");
             Console.WriteLine($"{_url} {_port}");
-            Console.ReadKey();
-            _nancy.Stop();
+            //Console.ReadKey();
+            //_nancy.Stop();
         }
 
 

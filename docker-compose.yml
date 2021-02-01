@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  nancyserver:
+    image: ${DOCKER_REGISTRY-}nancyserver
+    build:
+      context: .\NancyServer
+      dockerfile: Dockerfile
